@@ -8,6 +8,7 @@ Tenemos ya implementados los sistema de vuelo y hoteles que poseen la funcionali
 de búsqueda según:
 
 ● Búsqueda vuelo: por fecha de salida, fecha de regreso, origen y destino.
+
 ● Búsqueda hotel: por fecha de entrada, fecha de salida, ciudad.
 
 Se implementará una simple fachada que permita exponer un método que realice las
