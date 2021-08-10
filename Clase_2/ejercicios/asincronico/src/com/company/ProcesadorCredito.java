@@ -5,8 +5,6 @@ public class ProcesadorCredito extends Procesador {
     @Override
     protected void autorizar(Tarjeta tarjeta, Double monto) {
 
-
-
         if( tarjeta.esAutorizada(monto)) {
             System.out.println("La tarjeta CREDITO ha sido autorizada. Su saldo de crédito disponible ahora es: "+tarjeta.getSaldo());
         } else {
