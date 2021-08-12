@@ -12,7 +12,7 @@ public class ManejadorEnvase extends Manejador {
             if( getSiguienteManejador() != null){
                 getSiguienteManejador().verificarCalidad(articulo);
             } else {
-                System.out.println( articulo + "fue aprobado");
+                System.out.println( articulo + " fue aprobado");
             }
 
 
