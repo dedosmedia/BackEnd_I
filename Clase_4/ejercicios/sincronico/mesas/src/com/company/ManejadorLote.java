@@ -11,9 +11,11 @@ public class ManejadorLote extends Manejador {
             if( getSiguienteManejador() != null){
                 getSiguienteManejador().verificarCalidad(articulo);
             }
+
+
         } else {
             // rechazado...
-            System.out.println( articulo + " fue rechazado por su lote");
+            System.out.println( articulo + " fue rechazado por su Lote");
         }
 
 
