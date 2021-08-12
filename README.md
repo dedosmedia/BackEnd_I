@@ -3,10 +3,14 @@ En este repo concentraré todos los ejercicios realizados para la materia de Bac
 Cada clase se encontrará en su respectiva carpeta, e internamente encontraremos ejercicios tanto sincrónicos como asincrónicos
 
 
-Clase 1: Patrón Facade
+Clase 1: **Patrón Facade**
 
-Clase 2: Patrón Template Method
+Clase 2: **Patrón Template Method**
 
-Clase 3: Integración de conceptos Clase 1 y Clase 2.
+Clase 3: **Integración de conceptos Clase 2.**
 
-Clase 4: 
+Clase 4: **Patrón Cadena de responsabilidad**
+
+Clase 5: **Patrón Proxy**
+
+Clase 6:
