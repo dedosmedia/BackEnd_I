@@ -10,11 +10,12 @@ public class Main {
     public static void main(String[] args) throws Exception {
 	// write your code here
 
-        String SQL_CREATE_TABLE = "DROP TABLE IF EXISTS FORMAS; CREATE TABLE FORMAS "
+        String SQL_CREATE_TABLE = "DROP TABLE IF EXISTS EMPLEADO; CREATE TABLE EMPLEADO "
                 + "("
                 + " ID INT PRIMARY KEY,"
-                + " FIGURA varchar(100) NOT NULL, "
-                + " COLOR varchar(100) NOT NULL "
+                + " NOMBRE varchar(100) NULL, "
+                + " EDAD INT NULL, "
+                + " EMPRESA varchar(100) NOT NULL "
                 + " )";
 
         Connection connection = DriverManager.getConnection("jdbc:h2:~/dh");
@@ -22,17 +23,16 @@ public class Main {
 
         stm.execute(SQL_CREATE_TABLE);
 
-        stm.execute("INSERT INTO FORMAS (ID, FIGURA, COLOR) VALUES (1, 'Circulo', 'Rojo')");
-        stm.execute("INSERT INTO FORMAS (ID, FIGURA, COLOR) VALUES (2, 'Circulo', 'Negro')");
-        stm.execute("INSERT INTO FORMAS (ID, FIGURA, COLOR) VALUES (3, 'Cuadrado', 'Amarillo')");
-        stm.execute("INSERT INTO FORMAS (ID, FIGURA, COLOR) VALUES (4, 'Cuadrado', 'Verde')");
+        stm.execute("INSERT INTO EMPLEADO (ID, EMPRESA) VALUES (1, 'Digital')");
+        stm.execute("INSERT INTO EMPLEADO (ID, EMPRESA) VALUES (2, 'Google')");
+        stm.execute("INSERT INTO EMPLEADO (ID, EMPRESA) VALUES (3, 'Facebook')");
 
 
-        ResultSet rs = stm.executeQuery("SELECT * FROM FORMAS");
+        ResultSet rs = stm.executeQuery("SELECT * FROM EMPLEADO");
 
 
         while( rs.next()) {
-            System.out.println(rs.getInt(1) +rs.getString(2) + rs.getString(3));
+            System.out.println(rs.getInt(1) +rs.getString(4));
         }
 
         connection.close();
