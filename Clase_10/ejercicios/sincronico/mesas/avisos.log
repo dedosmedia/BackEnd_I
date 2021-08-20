@@ -1,0 +1,32 @@
+[2021-08-19 10:54:10] [ ERROR] [Main:14] Hola estoy corriendo
+[10:54:49] [ ERROR] [Main:14] Hola estoy corriendo
+[10:57:33] [ ERROR] [Main:17] Hola estoy corriendo
+[10:57:33] [ INFO ] [ListaPromedio:19] Tengo más de 5 elementos
+[10:58:38] [ ERROR] [Main:17] Hola estoy corriendo
+[10:58:38] [ INFO ] [Main:19] Tengo más de 5 elementos
+[11:01:24] [ ERROR] [Main:19] Hola estoy corriendo
+[11:01:24] [ INFO ] [ListaPromedio:19] Tengo más de 5 elementos
+[11:02:57] [ ERROR] [Main:19] Hola estoy corriendo
+[11:02:57] [ INFO ] [ListaPromedio:19] Tengo más de 5 elementos
+[11:02:57] [ INFO ] [ListaPromedio:19] Tengo más de 5 elementos
+[11:02:57] [ INFO ] [ListaPromedio:22] Tengo más de 10 elementos
+[11:02:57] [ INFO ] [ListaPromedio:35] El promedio es 6
+[11:02:57] [ ERROR] [Main:31] La lista es igual a cero 
+java.lang.Exception
+	at com.company.ListaPromedio.<init>(ListaPromedio.java:25)
+	at com.company.Main.main(Main.java:27)
+[11:03:14] [ ERROR] [Main:19] Hola estoy corriendo
+[11:03:14] [ INFO ] [ListaPromedio:19] Tengo más de 5 elementos
+[11:03:14] [ INFO ] [ListaPromedio:19] Tengo más de 5 elementos
+[11:03:14] [ INFO ] [ListaPromedio:22] Tengo más de 10 elementos
+[11:03:14] [ INFO ] [ListaPromedio:35] El promedio es 6
+[11:03:14] [ ERROR] [Main:31] java.lang.Exception
+[11:03:23] [ ERROR] [Main:19] Hola estoy corriendo
+[11:03:23] [ INFO ] [ListaPromedio:19] Tengo más de 5 elementos
+[11:03:23] [ INFO ] [ListaPromedio:19] Tengo más de 5 elementos
+[11:03:23] [ INFO ] [ListaPromedio:22] Tengo más de 10 elementos
+[11:03:23] [ INFO ] [ListaPromedio:35] El promedio es 6
+[11:03:23] [ ERROR] [Main:31] La lista es igual a cero 
+java.lang.Exception
+	at com.company.ListaPromedio.<init>(ListaPromedio.java:25)
+	at com.company.Main.main(Main.java:27)

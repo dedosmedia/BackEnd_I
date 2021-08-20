@@ -1,0 +1,61 @@
+[2021-08-19 00:57:37] [ INFO ] [Tigre:18] El tigre Tigre1 está corriendo
+[2021-08-19 00:57:37] [ INFO ] [Tigre:18] El tigre Otro Tigre está corriendo
+[2021-08-19 00:57:37] [ ERROR] [Main:21] [Ljava.lang.StackTraceElement;@198e2867
+[2021-08-19 00:59:36] [ INFO ] [Tigre:18] El tigre Tigre1 está corriendo
+[2021-08-19 00:59:36] [ INFO ] [Tigre:18] El tigre Otro Tigre está corriendo
+[2021-08-19 00:59:36] [ ERROR] [Main:21] [Ljava.lang.StackTraceElement;@198e2867
+[2021-08-19 01:00:16] [ INFO ] [Tigre:18] El tigre Tigre1 está corriendo
+[2021-08-19 01:00:16] [ INFO ] [Tigre:18] El tigre Otro Tigre está corriendo
+[2021-08-19 01:00:17] [ ERROR] [Main:21] [Ljava.lang.StackTraceElement;@198e2867
+[2021-08-19 01:01:00] [ INFO ] [Tigre:18] El tigre Tigre1 está corriendo
+[2021-08-19 01:01:00] [ INFO ] [Tigre:18] El tigre Otro Tigre está corriendo
+[2021-08-19 01:01:00] [ ERROR] [Main:21] [Ljava.lang.StackTraceElement;@18e8568
+[2021-08-19 01:01:53] [ INFO ] [Tigre:18] El tigre Tigre1 está corriendo
+[2021-08-19 01:01:53] [ INFO ] [Tigre:18] El tigre Otro Tigre está corriendo
+[2021-08-19 01:01:54] [ ERROR] [Leon:17] La edad no puede ser negativa
+[2021-08-19 01:01:54] [ ERROR] [Main:21] [Ljava.lang.StackTraceElement;@198e2867
+[2021-08-19 01:02:52] [ INFO ] [Tigre:18] El tigre Tigre1 está corriendo
+[2021-08-19 01:02:52] [ INFO ] [Tigre:18] El tigre Otro Tigre está corriendo
+[2021-08-19 01:02:52] [ INFO ] [Leon:26] El leon Simba está corriendo
+[2021-08-19 01:02:52] [ ERROR] [Leon:17] La edad no puede ser negativa
+[2021-08-19 01:02:52] [ ERROR] [Main:23] [Ljava.lang.StackTraceElement;@198e2867
+[2021-08-19 01:05:39] [ INFO ] [Tigre:18] El tigre Tigre1 está corriendo
+[2021-08-19 01:05:39] [ INFO ] [Tigre:18] El tigre Otro Tigre está corriendo
+[2021-08-19 01:05:39] [ INFO ] [Leon:26] El leon Simba está corriendo
+[2021-08-19 01:05:39] [ ERROR] [Leon:17] La edad no puede ser negativa
+[2021-08-19 01:05:39] [ ERROR] [Main:23] La edad no puede ser menor a 0
+[2021-08-19 01:06:14] [ INFO ] [Tigre:18] El tigre Tigre1 está corriendo
+[2021-08-19 01:06:14] [ INFO ] [Tigre:18] El tigre Otro Tigre está corriendo
+[2021-08-19 01:06:15] [ INFO ] [Leon:26] El leon Simba está corriendo
+[2021-08-19 01:06:15] [ ERROR] [Leon:17] La edad no puede ser negativa
+[2021-08-19 01:06:15] [ ERROR] [Main:23] La edad no puede ser menor a 0
+[2021-08-19 01:06:49] [ INFO ] [Tigre:18] El tigre Tigre1 está corriendo
+[2021-08-19 01:06:49] [ INFO ] [Tigre:18] El tigre Otro Tigre está corriendo
+[2021-08-19 01:06:49] [ INFO ] [Leon:26] El leon Simba está corriendo
+[2021-08-19 01:06:49] [ INFO ] [Leon:33] El león Simba es mayor a 10 y es macho alfa
+[2021-08-19 01:06:49] [ ERROR] [Leon:17] La edad no puede ser negativa
+[2021-08-19 01:06:49] [ ERROR] [Main:24] La edad no puede ser menor a 0
+[2021-08-19 01:12:03] [ INFO ] [Tigre:18] El tigre Tigre1 está corriendo
+[2021-08-19 01:12:03] [ INFO ] [Tigre:18] El tigre Otro Tigre está corriendo
+[2021-08-19 01:12:03] [ INFO ] [Main:24] El leon Simba está corriendo
+[2021-08-19 01:12:03] [ INFO ] [Main:30] El león Simba es mayor a 10 y es macho alfa
+[2021-08-19 01:12:03] [ ERROR] [Main:17] La edad no puede ser negativa
+[2021-08-19 01:12:03] [ ERROR] [Main:24] La edad no puede ser menor a 0
+[2021-08-20 10:55:28] [ INFO ] [Tigre:18] El tigre Tigre1 está corriendo
+[2021-08-20 10:55:28] [ INFO ] [Tigre:18] El tigre Otro Tigre está corriendo
+[2021-08-20 10:55:28] [ INFO ] [Leon:24] El leon Simba está corriendo
+[2021-08-20 10:55:28] [ INFO ] [Leon:30] El león Simba es mayor a 10 y es macho alfa
+[2021-08-20 10:55:28] [ ERROR] [Leon:17] La edad no puede ser negativa
+[2021-08-20 10:55:28] [ ERROR] [Main:24] La edad no puede ser menor a 0
+[2021-08-20 10:55:57] [ INFO ] [Tigre:18] El tigre Tigre1 está corriendo
+[2021-08-20 10:55:57] [ INFO ] [Tigre:18] El tigre Otro Tigre está corriendo
+[2021-08-20 10:55:57] [ INFO ] [Leon:24] El leon Simba está corriendo
+[2021-08-20 10:55:57] [ INFO ] [Leon:30] El león Simba es mayor a 10 y es macho alfa
+[2021-08-20 10:55:57] [ ERROR] [Leon:17] La edad no puede ser negativa
+[2021-08-20 10:55:57] [ ERROR] [Main:24] java.lang.Exception: La edad no puede ser menor a 0
+[2021-08-20 10:57:22] [ INFO ] [Tigre:18] El tigre Tigre1 está corriendo
+[2021-08-20 10:57:22] [ INFO ] [Tigre:18] El tigre Otro Tigre está corriendo
+[2021-08-20 10:57:22] [ INFO ] [Leon:24] El leon Simba está corriendo
+[2021-08-20 10:57:22] [ INFO ] [Leon:30] El león Simba es mayor a 10 y es macho alfa
+[2021-08-20 10:57:22] [ ERROR] [Leon:17] La edad no puede ser negativa
+[2021-08-20 10:57:22] [ ERROR] [Main:24] java.lang.Exception: La edad no puede ser menor a 0
