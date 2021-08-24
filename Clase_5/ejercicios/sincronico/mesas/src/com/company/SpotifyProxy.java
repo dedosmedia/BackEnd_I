@@ -5,6 +5,7 @@ public class SpotifyProxy implements ServicioDescarga{
 
     private Usuario usuario;
     private Spotify spotify;
+    List
 
     public SpotifyProxy(Usuario usuario) {
         this.usuario = usuario;

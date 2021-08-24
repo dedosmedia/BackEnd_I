@@ -16,6 +16,8 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
+
+
         logger.error("Hola estoy corriendo");
         ListaPromedio vacia = null;
         ListaPromedio listaPromedioMayorA5 = null;

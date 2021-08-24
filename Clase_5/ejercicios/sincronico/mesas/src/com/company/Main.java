@@ -10,12 +10,12 @@ public class Main {
 
 
         // TODO: Le podría pasar el Usuario por el constructor del proxy?
-        SpotifyProxy proxyUser1 = new SpotifyProxy(user1);
-        SpotifyProxy proxyUser2 = new SpotifyProxy(user2);
+        ServicioDescarga proxyUser1 = new SpotifyProxy(user1);
+        ServicioDescarga proxyUser2 = new SpotifyProxy(user2);
 
         proxyUser1.descargar( "Mi canción");
-
         proxyUser2.descargar( "Mi canción");
+
 
 
     }

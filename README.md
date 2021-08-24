@@ -7,10 +7,14 @@ Clase 1: **Patrón Facade**
 
 Clase 2: **Patrón Template Method**
 
-Clase 3: **Integración de conceptos Clase 2.**
+Clase 3: **Integración de conceptos Clase 2 y 3.**
 
 Clase 4: **Patrón Cadena de responsabilidad**
 
 Clase 5: **Patrón Proxy**
 
-Clase 6:
+Clase 6: **Integración de conceptos Clase 4 y 5.**
+
+Clase 7: **Patrón FlyWeight**
+
+Clase 8: **...**
