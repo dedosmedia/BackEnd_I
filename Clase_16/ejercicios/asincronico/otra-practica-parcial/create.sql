@@ -1,0 +1,1 @@
+create table if not exists perros (id int auto_increment primary key, nombre varchar(255), raza varchar(255));
